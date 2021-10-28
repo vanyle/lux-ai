@@ -1,0 +1,8 @@
+*.json
+*.tar.gz
+/replays/
+/errorlogs/
+*.pyc
+.vscode
+*.sublime-workspace
+*.sublime-project
