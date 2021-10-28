@@ -2,9 +2,21 @@
 
 Internal Notes
 
-Running a python bot.
+
+Running a competition of bots:
 
 ```bash
-lux-ai-2021 /path/to/mybot /path/to/otherbot
+python main.py
 ```
 
+Viewing the result of the competition:
+
+```bash
+./results.html
+```
+
+Analysing the results of a competition:
+
+```bash
+python analysis.json
+```
