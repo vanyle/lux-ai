@@ -1,2 +1,12 @@
+numpy
+
+IPython
+ipykernel
+request
+
+gym
 kaggle-environments
-requests
+stable-baselines3
+torch
+torchvision
+torchaudio
